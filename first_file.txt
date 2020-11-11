@@ -1,8 +1,8 @@
-apple
+green apple
 banana
 pancake
 olives
-bread
+wheet bread
 butter
 corn
-eggs
+12 eggs
