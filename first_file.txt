@@ -4,5 +4,3 @@ pancake
 olives
 wheet bread
 butter
-corn
-12 eggs
